@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\DilekSaylan.WepApiDemo\DilekSaylan.WepApiDemo\bin\Debug\netcoreapp2.1\DilekSaylan.WepApiDemo.deps.json
+C:\Users\asus\source\repos\DilekSaylan.WepApiDemo\DilekSaylan.WepApiDemo\bin\Debug\netcoreapp2.1\DilekSaylan.WepApiDemo.runtimeconfig.json
+C:\Users\asus\source\repos\DilekSaylan.WepApiDemo\DilekSaylan.WepApiDemo\bin\Debug\netcoreapp2.1\DilekSaylan.WepApiDemo.runtimeconfig.dev.json
+C:\Users\asus\source\repos\DilekSaylan.WepApiDemo\DilekSaylan.WepApiDemo\bin\Debug\netcoreapp2.1\DilekSaylan.WepApiDemo.dll
+C:\Users\asus\source\repos\DilekSaylan.WepApiDemo\DilekSaylan.WepApiDemo\bin\Debug\netcoreapp2.1\DilekSaylan.WepApiDemo.pdb
+C:\Users\asus\source\repos\DilekSaylan.WepApiDemo\DilekSaylan.WepApiDemo\obj\Debug\netcoreapp2.1\DilekSaylan.WepApiDemo.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\DilekSaylan.WepApiDemo\DilekSaylan.WepApiDemo\obj\Debug\netcoreapp2.1\DilekSaylan.WepApiDemo.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\DilekSaylan.WepApiDemo\DilekSaylan.WepApiDemo\obj\Debug\netcoreapp2.1\DilekSaylan.WepApiDemo.RazorAssemblyInfo.cache
+C:\Users\asus\source\repos\DilekSaylan.WepApiDemo\DilekSaylan.WepApiDemo\obj\Debug\netcoreapp2.1\DilekSaylan.WepApiDemo.RazorAssemblyInfo.cs
+C:\Users\asus\source\repos\DilekSaylan.WepApiDemo\DilekSaylan.WepApiDemo\obj\Debug\netcoreapp2.1\DilekSaylan.WepApiDemo.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\DilekSaylan.WepApiDemo\DilekSaylan.WepApiDemo\obj\Debug\netcoreapp2.1\DilekSaylan.WepApiDemo.AssemblyInfo.cs
+C:\Users\asus\source\repos\DilekSaylan.WepApiDemo\DilekSaylan.WepApiDemo\obj\Debug\netcoreapp2.1\DilekSaylan.WepApiDemo.RazorTargetAssemblyInfo.cache
+C:\Users\asus\source\repos\DilekSaylan.WepApiDemo\DilekSaylan.WepApiDemo\obj\Debug\netcoreapp2.1\DilekSaylan.WepApiDemo.dll
+C:\Users\asus\source\repos\DilekSaylan.WepApiDemo\DilekSaylan.WepApiDemo\obj\Debug\netcoreapp2.1\DilekSaylan.WepApiDemo.pdb
